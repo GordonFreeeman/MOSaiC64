@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "MOSaiC64",
+  "short_name": "MOSaiC64",
+  "description": "An original offline Commodore 64 emulator with desktop, gamepad and configurable handheld controls.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131b",
+  "theme_color": "#d5cdbc",
+  "orientation": "any",
+  "categories": ["games", "entertainment"],
+  "prefer_related_applications": false,
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ],
+  "screenshots": [
+    {"src":"./screenshots/desktop.png","sizes":"1440x900","type":"image/png","form_factor":"wide","label":"MOSaiC64 desktop emulator interface"},
+    {"src":"./screenshots/mobile.png","sizes":"390x844","type":"image/png","form_factor":"narrow","label":"MOSaiC64 handheld interface"}
+  ]
+}
