@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='mosaic64-pwa-v0.6.6-1';
+const CACHE='mosaic64-pwa-v0.6.8-1';
 const CORE=[
   './',
   './index.html',
